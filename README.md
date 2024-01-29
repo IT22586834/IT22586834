@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravindu Sathsara</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<img src="[https://example.com/path/to/your/image.gif](https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif)" alt="Your GIF Description">
+<img src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif" alt="GIF">
 
 
 
