@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravindu Sathsara</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
+https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mrelectroofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrelectroofficial" height="30" width="40" /></a>
