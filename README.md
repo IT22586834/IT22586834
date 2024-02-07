@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravindu Sathsara</h1>
+<h1 align="center">Hi 👋, I'm Ravindu Sathsara De Silva</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22586834&label=Profile%20views&color=0e75b6&style=flat" alt="it22586834" /> </p>
