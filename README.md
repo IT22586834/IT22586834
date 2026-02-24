@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22586834&label=Profile%20views&color=0e75b6&style=flat" alt="it22586834" /> </p>
 
-- 🔭 I’m currently working on **GG Lounge Web Application**
+- 🔭 I’m currently working on **......**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Science and AI**
 
 - ⚡ Fun fact **I am Music Producer Too...**
 
